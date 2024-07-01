@@ -6,7 +6,7 @@ Theme Switcher is a responsive React application that allows users to toggle bet
 elements accordingly, providing a smooth and visually appealing transition between themes.
 ## Demo
 
-![Theme Switcher Screenshot](./Assets/ss.png)
+![Theme Switcher Screenshot](../Assets/ss.png)
 
 ## Features
 
