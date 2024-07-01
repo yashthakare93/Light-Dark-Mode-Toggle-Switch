@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Light-Dark-Mode-Toggle-Switch/static/css/main.a6f85b4c.css",
+    "main.css": "/Light-Dark-Mode-Toggle-Switch/static/css/main.055c7ca7.css",
     "main.js": "/Light-Dark-Mode-Toggle-Switch/static/js/main.9e6ec682.js",
     "index.html": "/Light-Dark-Mode-Toggle-Switch/index.html",
-    "main.a6f85b4c.css.map": "/Light-Dark-Mode-Toggle-Switch/static/css/main.a6f85b4c.css.map",
+    "main.055c7ca7.css.map": "/Light-Dark-Mode-Toggle-Switch/static/css/main.055c7ca7.css.map",
     "main.9e6ec682.js.map": "/Light-Dark-Mode-Toggle-Switch/static/js/main.9e6ec682.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6f85b4c.css",
+    "static/css/main.055c7ca7.css",
     "static/js/main.9e6ec682.js"
   ]
 }
