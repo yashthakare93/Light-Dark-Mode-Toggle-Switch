@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/theme-switcher/static/css/main.a6f85b4c.css",
-    "main.js": "/theme-switcher/static/js/main.9e6ec682.js",
-    "index.html": "/theme-switcher/index.html",
-    "main.a6f85b4c.css.map": "/theme-switcher/static/css/main.a6f85b4c.css.map",
-    "main.9e6ec682.js.map": "/theme-switcher/static/js/main.9e6ec682.js.map"
+    "main.css": "/Light-Dark-Mode-Toggle-Switch/static/css/main.a6f85b4c.css",
+    "main.js": "/Light-Dark-Mode-Toggle-Switch/static/js/main.9e6ec682.js",
+    "index.html": "/Light-Dark-Mode-Toggle-Switch/index.html",
+    "main.a6f85b4c.css.map": "/Light-Dark-Mode-Toggle-Switch/static/css/main.a6f85b4c.css.map",
+    "main.9e6ec682.js.map": "/Light-Dark-Mode-Toggle-Switch/static/js/main.9e6ec682.js.map"
   },
   "entrypoints": [
     "static/css/main.a6f85b4c.css",
