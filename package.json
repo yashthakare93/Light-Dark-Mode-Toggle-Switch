@@ -1,7 +1,7 @@
 {
   "name": "theme-switcher",
   "version": "0.1.0",
-  "homepage": "https://yashthakare93.github.io/theme-switcher",
+  "homepage": "https://yashthakare93.github.io/Light-Dark-Mode-Toggle-Switch",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
